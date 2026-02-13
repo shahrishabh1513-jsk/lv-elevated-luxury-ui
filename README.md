@@ -36,3 +36,6 @@ Experience a high-end digital design with video hero sections, refined animation
 - **Typography:** Elegant luxury pairing
 
 ---
+
+## 📹Preview 
+<img width="1826" height="864" alt="Screenshot 2026-02-13 144025" src="https://github.com/user-attachments/assets/64674686-1f97-49ac-865c-b354da633df2" />
